@@ -1,0 +1,3 @@
+include ':mydraglayout'
+include ':app'
+rootProject.name = "testdraglayout"
