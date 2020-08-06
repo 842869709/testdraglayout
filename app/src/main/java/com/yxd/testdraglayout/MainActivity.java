@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        mdl.setmOnDragLayoutStateChangedListening(new DragLayout.OnDragLayoutStateChangedListening() {
+        mdl.setOnDragLayoutStateChangedListening(new DragLayout.OnDragLayoutStateChangedListening() {
             @Override
             public void OnDragLayoutStateChanged(DragLayout.DragState state) {
                 if (state== DragLayout.DragState.CLOSE){

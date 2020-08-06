@@ -388,7 +388,7 @@ public class DragLayout extends FrameLayout {
     }
     private  OnDragLayoutStateChangedListening mOnDragLayoutStateChangedListening;
 
-    public void setmOnDragLayoutStateChangedListening(OnDragLayoutStateChangedListening mOnDragLayoutStateChangedListening) {
+    public void setOnDragLayoutStateChangedListening(OnDragLayoutStateChangedListening mOnDragLayoutStateChangedListening) {
         this.mOnDragLayoutStateChangedListening = mOnDragLayoutStateChangedListening;
     }
 
