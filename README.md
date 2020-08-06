@@ -5,7 +5,6 @@
 示例图片，图片如果不展示请出国即可
 
 ![](https://github.com/842869709/testdraglayout/blob/master/test.gif)
-![](http://m.qpic.cn/psc?/V5488TR73z0OJl16qTQ21cjwCO0oPHEr/r5r.jW0JZFmFKdRYe5qoxjcN2U42fIJ17OQAQ*Vrc6q.WdRqOisjQBE*uFLTKNmnZnOAu7VZHwQE5OrrW9v6ndUHssS2yHySdYiK7q082vU!/b&bo=9AEHBAAAAAACB9U!&rf=viewer_4)
 
 ## 1.用法
 使用前，对于Android Studio的用户，可以选择添加:
