@@ -6,6 +6,12 @@
 
 ![](https://github.com/842869709/testdraglayout/blob/master/test.gif)
 
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1596705677555&di=02bf5b38f7cab784c7a52e6a585c499e&imgtype=0&src=http%3A%2F%2Ft7.baidu.com%2Fit%2Fu%3D3616242789%2C1098670747%26fm%3D79%26app%3D86%26f%3DJPEG%3Fw%3D900%26h%3D1350)
+
+
+
+
+
 ## 1.用法
 使用前，对于Android Studio的用户，可以选择添加:
 
