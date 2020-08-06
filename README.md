@@ -6,6 +6,7 @@
 
 ![](https://github.com/842869709/testdraglayout/blob/master/test.gif)
 
+![](https://img-blog.csdnimg.cn/20200806144032425.gif)
 
 ## 1.用法
 使用前，对于Android Studio的用户，可以选择添加:
