@@ -153,7 +153,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        mdl.setmOnDragLayoutStateChangedListening(new DragLayout.OnDragLayoutStateChangedListening() {
+        mdl.setOnDragLayoutStateChangedListening(new DragLayout.OnDragLayoutStateChangedListening() {
             @Override
             public void OnDragLayoutStateChanged(DragLayout.DragState state) {
                 if (state== DragLayout.DragState.CLOSE){
@@ -185,4 +185,5 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
-## v1.0.0初始化提交
+## v1.0.1 修改状态监听的方法名
+## v1.0.0 初始化提交
