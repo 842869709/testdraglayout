@@ -4,7 +4,7 @@
 
 示例图片，图片如果不展示请出国即可
 
-![](https://github.com/842869709/TestMyslidingmenu/blob/master/2020.07.31.15.49.20_2.gif)
+![](https://github.com/842869709/testdraglayout/blob/master/test.gif)
 
 ## 1.用法
 使用前，对于Android Studio的用户，可以选择添加:
